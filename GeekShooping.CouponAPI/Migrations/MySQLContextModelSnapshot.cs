@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace GeekShooping.CouponAPI.Migrations
+namespace GeekShopping.CouponAPI.Migrations
 {
     [DbContext(typeof(MySQLContext))]
     partial class MySQLContextModelSnapshot : ModelSnapshot

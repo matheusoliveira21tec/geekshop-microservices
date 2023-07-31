@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace GeekShooping.CouponAPI.Migrations
+namespace GeekShopping.CouponAPI.Migrations
 {
     [DbContext(typeof(MySQLContext))]
     [Migration("20230728012612_AddCouponDataTablesOnDB")]
